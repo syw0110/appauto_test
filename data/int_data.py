@@ -1,7 +1,7 @@
-username = "17364813531"
+username = "***********"
 
-password = "s123456"
+password = "********"
 
-nick_data = "aassyyww"
+nick_data = "*****"
 
 logout_info = "点击登录"
